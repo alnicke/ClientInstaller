@@ -1,2 +1,8 @@
 # ClientInstaller
-Crack clients for Minecraft(Educational(programming) purposes only!!!)
+Crack clients for Minecraft
+EDUCATIONAL PURPOSES ONLY !!! - LEARNING PROGRAMMING PURPOSES !!!
+OPEN SOURCE CLIENTINSTALLER
+
+MINECRAFT OFFICIAL LAUNCHER SUPPORT !!!
+
+
