@@ -6,8 +6,9 @@ Hacks ---
 *RusherHack,ThunderHack,FutureHack,Boze,3arthh4ck,lambda,salhack etc.*                                                      
 Additional ---
 *Baritone,Baritone with auto fly!,Optifine, etc.*
-~
+
 TLAUNCHER LAUNCHER SUPPORT !!!
+
 MINECRAFT OFFICIAL LAUNCHER SUPPORT !!!
 
 DOWNLOAD LINK ---
