@@ -6,10 +6,10 @@ Crack clients for Minecraft
 MINECRAFT OFFICIAL LAUNCHER SUPPORT !!!
 
 DOWNLOAD LINK ---
-*https://cdn.discordapp.com/attachments/1133394636749152329/1133394983051866282/ClientInstaller.jar*
+*https://workupload.com/file/3bP8Mc57yaa*
 
 VirusTotal ---
-https://www.virustotal.com/gui/file/8d40257e14d208d66796a5c678472216498309aac5df4a0a261f7466049f05b6/detection
+*https://www.virustotal.com/gui/file/cab1dd74a05f81d0c7a0ba97ed9b2ff5021fb8728b743bd152c49200b5e76462/detection*
 
 Configs ---
 Future - *https://cdn.discordapp.com/attachments/1133395213117837402/1133395266951712778/korde.cfg*                            
