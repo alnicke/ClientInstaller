@@ -1,10 +1,10 @@
 # ClientInstaller
 Crack clients for Minecraft                                                                                                                                     
 // EDUCATIONAL PURPOSES ONLY !!! - LEARNING PROGRAMMING PURPOSES !!!                                                                                          
-// RusherHack                                                                                                                                                
-// ThunderHack
-// FutureHack
-// Additional settings ;
+   RusherHack                                                                                                                                                
+   ThunderHack
+   FutureHack
+   Additional settings ;
   *Baritone
   *Baritone with auto fly!
   *3arthh4ck
