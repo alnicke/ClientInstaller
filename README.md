@@ -1,6 +1,7 @@
 # ClientInstaller
 Crack clients for Minecraft                                                                                                                                     
 // EDUCATIONAL PURPOSES ONLY !!! - LEARNING PROGRAMMING PURPOSES !!!                                                                                          
+--------------------------
    RusherHack                                                                                                                                                
    ThunderHack
    FutureHack
@@ -12,7 +13,6 @@ Crack clients for Minecraft
   *Salhack
   *Optifine
   /And etc..
---------------------------
 TLAUNCHER LAUNCHER SUPPORT !!!
 MINECRAFT OFFICIAL LAUNCHER SUPPORT !!!
 
