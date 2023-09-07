@@ -1,7 +1,7 @@
 # ClientInstaller
 Crack clients for Minecraft                                                                                                                                     
 // EDUCATIONAL PURPOSES ONLY !!! - LEARNING PROGRAMMING PURPOSES !!!                                                                                          
-// RusherHack                                                                                                                                                 
+// RusherHack                                                                                                                                                
 // ThunderHack
 // FutureHack
 // Additional settings ;
