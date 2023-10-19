@@ -12,7 +12,7 @@ TLAUNCHER LAUNCHER SUPPORT !!!
 MINECRAFT OFFICIAL LAUNCHER SUPPORT !!!
 
 DOWNLOAD LINK ---
-*https://workupload.com/file/3bP8Mc57yaa*
+*DMCA*
 
 VirusTotal ---
 *https://www.virustotal.com/gui/file/cab1dd74a05f81d0c7a0ba97ed9b2ff5021fb8728b743bd152c49200b5e76462/detection*
